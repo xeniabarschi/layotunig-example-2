@@ -100,3 +100,7 @@ body{
 .conten .row2{
     display: inline-block;  
 }
+.conten .row2 img{
+    width: 400px;
+    height: 500px;
+}
